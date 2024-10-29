@@ -12,7 +12,7 @@
 Answer
 
 
-## Counter example: Invariant 3
+## Counter example: Invariant #
 ### Sequence of Events
 1. 
 2. 
