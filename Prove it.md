@@ -25,7 +25,7 @@
 | 16     | The alarm remains active while a train is present.      | 
 | 17     | The barrier stays down until all trains depart.          | 
 | 18     | Power interruptions never cause unsafe states.          |
-| 19     |           |
+| 19     | When power is interrupted, the alarm system stay on , or previous state       |
 | 20     |           |
 
 
