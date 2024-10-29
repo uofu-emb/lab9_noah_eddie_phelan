@@ -29,4 +29,9 @@
 | 20     |           |
 
 
- #Specification vs. implementation
+# Specification vs. implementation
+## Table's FSM
+
+
+
+## Is your new FSM equivalent to the FSMs from the previously steps?
