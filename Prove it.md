@@ -22,9 +22,9 @@
 
 | number | invariant |
 |--------|-----------|
-| 16     |           | 
-| 17     |           | 
-| 18     |           |
+| 16     | The alarm remains active while a train is present.      | 
+| 17     | The barrier stays down until all trains depart.          | 
+| 18     | Power interruptions never cause unsafe states.          |
 | 19     |           |
 | 20     |           |
 
