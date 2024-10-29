@@ -1,9 +1,9 @@
 # FSM Invariant Analysis
 
 ## Invariants
-1. ****
-2. ****
-3. ****
+1. **The alarm remains active while a train is present.**
+2. **The barrier stays down until all trains depart**
+3. **When power is interrupted, the alarm system stays on, or previous state**
 4. ****
 5. ****
 
@@ -12,7 +12,7 @@
 Answer
 
 
-## Counter example: Invariant #
+## Counter example: Invariant [number]
 ### Sequence of Events
 1. 
 2. 
