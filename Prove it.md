@@ -29,7 +29,7 @@
 | 20     |           |
 
 
-<img src="docs/FSM From Table - Sheet1 (1).svg">
+<img src="docs/FSM From Table - Sheet1 (1).svg" width="200" height="400">
 
 # Specification vs. implementation
 ## Table's FSM
