@@ -1,6 +1,8 @@
 # FSM Invariant Analysis
 
-![alt text](docs/Example%20Fsm.jpg)
+![alt text](docs/Invariants.svg)
+
+<img src="docs/Invariants.svg">
 
 
 
