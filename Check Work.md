@@ -5,8 +5,10 @@
 
 ## Noah's FSM
 Noah Prelab FSM
+
 <img src="docs/Noah Prelab Fsm.jpg">
 
 
 Noah Fixed FSM
+
 <img src="docs/Noah Fixed Fsm.svg">
