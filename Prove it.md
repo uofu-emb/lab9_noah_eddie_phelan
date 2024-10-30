@@ -29,6 +29,8 @@
 | 20     |           |
 
 
+<img src="docs/FSM From Table - Sheet1.svg">
+
 # Specification vs. implementation
 ## Table's FSM
 
