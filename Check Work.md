@@ -12,3 +12,7 @@ Noah Prelab FSM
 Noah Fixed FSM
 
 <img src="docs/Noah Fixed Fsm.svg">
+
+Eddie Fixed FSM
+
+<img src="docs/eddie fsm fixed.jpeg">
