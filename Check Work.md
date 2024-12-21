@@ -4,4 +4,15 @@
     - Similar to the first counterexample, if more than NorthBoundAproach or SouthBoundApproach occurs before reaching the idle state, again we would reach a state where the barrier is up, but trains are present. 
 
 ## Noah's FSM
-- Counter_Examples:
+Noah Prelab FSM
+
+<img src="docs/Noah Prelab Fsm.jpg">
+
+
+Noah Fixed FSM
+
+<img src="docs/Noah Fixed Fsm.svg">
+
+Eddie Fixed FSM
+
+<img src="docs/eddie fsm fixed.jpeg">
